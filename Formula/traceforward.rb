@@ -1,10 +1,10 @@
 class Traceforward < Formula
   include Language::Python::Virtualenv
 
-  desc "Forward Networks traceforward utility"
-  homepage "https://github.com/forwardnetworks/TraceForward"
-  url "https://files.pythonhosted.org/packages/02/70/daf8c15f057155555a30f0d5d48a2c5fd9267c4a6a17c736692d5f1d24eb/traceforward-0.0.2.tar.gz"
-  sha256 "52269468c83719ed5f1ae805eb8adae5aafaf605078a5090a54d39269c31882b"
+  desc "Shiny new formula"
+  homepage ""
+  url "https://files.pythonhosted.org/packages/95/06/54c8e32b81f3e0bc8046bdaa25a32943b6e0b0be070e5720aac5d16da6f7/traceforward-0.0.3.tar.gz"
+  sha256 "fc86d3481e72a8d325fb9fa504e9f6ab5c5dae6e2fc08a2f0d473595af4f6a71"
 
   depends_on "python3"
 
